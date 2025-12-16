@@ -1,4 +1,4 @@
-# Stars21
+# Stars21  ***** DO NOT USE this Stars21 source, USE Stella21 source for Star21 *****
 [![Stars21](https://s21.ax1x.com/2025/02/19/pEM73e1.jpg)](https://imgse.com/i/pEM73e1)
 
 * Keyboard Maintainer: [jonylee@hfd](https://github.com/jonylee1986)
