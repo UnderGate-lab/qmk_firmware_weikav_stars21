@@ -1,4 +1,4 @@
-# STELLA 21
+# STELLA 21 and STARS 21
 [![STELLA 21](https://s21.ax1x.com/2025/02/19/pEM7NWD.jpg)](https://imgse.com/i/pEM7NWD)
 
 * Keyboard Maintainer: [jonylee@hfd](https://github.com/jonylee1986)
