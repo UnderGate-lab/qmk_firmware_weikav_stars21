@@ -22,7 +22,7 @@ Vendor QMK/VIA source for the WEIKAV Stars21 tri-mode numpad, including the wire
 <img src="https://github.com/user-attachments/assets/5342b88b-fd6e-46b3-94ff-fa3fad7a64cb" width="30%" alt="Supported Stars21 PCB (3)">
 </p>
 
-A Vial version for the same PCB is available at [UnderGate-lab/vial-qmk](https://github.com/UnderGate-lab/vial-qmk/tree/weikav-stella21-vial/keyboards/weikav/stella21).
+A Vial version for the same PCB is available at [UnderGate-lab/vial_firmware_weikav_stars21](https://github.com/UnderGate-lab/vial_firmware_weikav_stars21/tree/weikav-stella21-vial/keyboards/weikav/stella21).
 
 ---
 
